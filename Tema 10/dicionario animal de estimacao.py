@@ -1,3 +1,4 @@
+#aqui foi criado uma lista no qual foi inserido as informaçoes do animal
 animal_de_estimacao = {
     "nome": "Rex",
     "tipo": "Cachorro",
@@ -6,7 +7,7 @@ animal_de_estimacao = {
     "peso": 30.5,
     "vacinas": ["Raiva", "Parvovirose", "Cinomose"]
                       }
-
+#aqui foi impresso na tela as informaçoes enumeradas na lista
 print("Informações do Animal de Estimação:")
 print("Nome: " + animal_de_estimacao['nome'])
 print("Tipo: " + animal_de_estimacao['tipo'])
