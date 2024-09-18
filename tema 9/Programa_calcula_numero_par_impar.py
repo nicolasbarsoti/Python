@@ -1,9 +1,8 @@
 # a linha abaixo recebe o valor da variavel
 num = int (input("digite um numero inteiro: "))
 
-# as linhas abaixo calculam o valor da variavel
+# aqui e feito uma concional que faz o calculo para saber se o numero da variavel e par ou impar e dependendo do valor e impresso na atela
 if num % 2 == 0:
-# a linha a cima e a formula para saber se um numero e par ou impar
     print ("O numero e par")
 else:
      print (" O numero e impar")
